@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+  padding: 0;
+
+
+}
+.container {
+  background-color:#ecf5f7;
+  width: 950px;
+  margin: auto;
+  padding: 0;
+
+}
+h1 {
+  text-align: center;
+  margin-top: 25px;
+  font-size: 50px;
+
+}
+.first{
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+  background-color: rgb(76,198,221);
+}
+.second{
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+  background-color: #d8aabc;
+}
+
+
+img{
+  width: 20%;
+}
+.third{
+  display: flex;
+  justify-content: space-around;
+  background-color: #FCFCFF;
+  margin: auto;
+}
