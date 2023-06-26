@@ -1,0 +1,28 @@
+.row {
+    display: flex;
+  }
+  
+  .col {
+    flex: 25%;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    background-color: aqua;
+  }
+  
+  .col-2 {
+    flex: 66.67%; 
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    background-color: aqua;
+  }
+  
+  .col-3 {
+    flex: 60%;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    background-color: aqua;
+  }
+  
